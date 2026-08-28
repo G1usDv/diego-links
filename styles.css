@@ -114,6 +114,7 @@ a { color: inherit; text-decoration: none; }
 .glyph--cinefy { color: #b981ff; background: rgba(158,83,255,.17); }
 .glyph--livepix { color: #ffb6e4; background: rgba(243,73,174,.14); }
 .glyph--react { color: #f3cd75; background: rgba(250,190,58,.12); }
+.glyph--discord { color: #9ca8ff; background: rgba(112, 132, 255, .14); }
 .network-link strong { display: block; font-size: 14px; }
 .network-link small { display: block; margin-top: 3px; color: var(--muted); font-size: 11px; }
 .network-link__arrow { color: #d6bddf; font-size: 20px; }
