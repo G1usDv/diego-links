@@ -111,6 +111,7 @@ a { color: inherit; text-decoration: none; }
 .network-link { display: grid; grid-template-columns: 48px 1fr auto; align-items: center; gap: 14px; min-height: 87px; border-bottom: 1px solid var(--line); padding: 10px 5px; transition: padding .2s ease, background .2s ease; }
 .network-link:hover { padding-inline: 13px 8px; background: rgba(255,255,255,.045); }
 .network-link__glyph { display: grid; width: 39px; height: 39px; place-items: center; border-radius: 50%; font-size: 18px; }
+.network-link__glyph svg { display: block; width: 21px; height: 21px; }
 .glyph--cinefy { color: #b981ff; background: rgba(158,83,255,.17); }
 .glyph--livepix { color: #ffb6e4; background: rgba(243,73,174,.14); }
 .glyph--react { color: #f3cd75; background: rgba(250,190,58,.12); }
